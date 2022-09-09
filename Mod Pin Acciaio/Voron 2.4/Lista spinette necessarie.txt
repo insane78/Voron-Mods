@@ -1,0 +1,17 @@
+Perni supporti motore A e B
+- 4 da 28mm
+
+Perni pulegge gantry X
+- 4 da 40mm
+
+Perni tendicinghia frontali
+- 2 da 40mm
+
+Perni per tendicighia Z
+- 4 da 31mm
+
+
+TOTALE:
+- 4 da 28mm
+- 6 da 40mm
+- 4 da 31mm
