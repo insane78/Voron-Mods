@@ -2,7 +2,7 @@
 # Slim Belt Front Idlers <br/>
 Based on <a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers">Ramalama mod</a>  <br/>
 I changed the look to make it more "Voron style" <br/>
-![Alt text](./Images/Preview.jpg)<br/>
+![Alt text](./Images/Preview.png)<br/>
 
 
 <details>
