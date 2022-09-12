@@ -21,7 +21,7 @@ I changed the look to make it more "Voron style" <br/>
 - Keep in mind, no play is impossible, but there should be only minimal axial play, only in the front of the inlet.<br>
 - Everything else should be a breeze to print!<br>
 - Seam: You don't want the seam outside, it will look ugly. Rotate the seam to the extrusion mounting side! (Should be "right"), Check the Picture:<br>
-<center>![Alt text](./Images/Print orientation.jpg)<br/></center>
+<center><img src="https://github.com/insane78/Voron-Mods/blob/main/Mod%20Tendicinghia%20Slim/Images/Print%20orientation.jpg" height="100"><br><br/></center>
 </details>
 
 <details>
