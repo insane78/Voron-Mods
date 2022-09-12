@@ -9,6 +9,7 @@ I changed the look to make it more "Voron style" <br/>
   <summary>
     CREDITS: Voron-Team, Ramalama
   </summary>
+  Thanks guys, you make this possible.
 </details>
 
 <details>
