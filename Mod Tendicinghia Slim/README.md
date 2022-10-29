@@ -30,11 +30,11 @@ Specific parts for Voron 2.4 and Trident <br/>
   <summary>
     BOM: (Multiply by 2 for Left+Right)
   </summary>
-- 3x M3x30 SHCS (Full threaded) or M3x40 SHCS (Full threaded)<br>
+- 2x M3x30 SHCS (Full threaded) or M3x40 SHCS (Full threaded)<br>
 - 1x M3x8 or M3x10<br>
 - 2x M3 Washer<br>
 - 2x M5 Washer<br>
-- 2x M3-Inserts<br>
+- 3x M3-Inserts<br>
 - 2x F695zz or F695-2RS bearing. (You should have this on your actual idler already)<br>
 - 1x 5x18 Pin (g6)<br>
 - 2x 3x6 Magnets<br>
