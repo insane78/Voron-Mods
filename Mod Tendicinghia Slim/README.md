@@ -30,7 +30,7 @@ Specific parts for Voron 2.4 and Trident <br/>
   <summary>
     BOM: (Multiply by 2 for Left+Right)
   </summary>
-- 2x M3x30 SHCS (Full threaded) or M3x40 SHCS (Full threaded)<br>
+- 3x M3x30 SHCS (Full threaded) or M3x40 SHCS (Full threaded)<br>
 - 1x M3x8 or M3x10<br>
 - 2x M3 Washer<br>
 - 2x M5 Washer<br>
